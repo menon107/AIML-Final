@@ -13,6 +13,7 @@ def game():
     else:
         return
     to_store_path_choice()
+    
     play_again()
 
 
