@@ -16,6 +16,9 @@ END_FONT = pygame.font.SysFont("comicsans", 70)
 DRAW_LINES = False
 gen = 0
 
+
+
+
 # Set the Game Variables
 icon = pygame.image.load("img\\bird1.png")
 pygame.display.set_icon(icon)
